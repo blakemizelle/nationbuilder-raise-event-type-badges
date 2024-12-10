@@ -5,7 +5,7 @@ A proof-of-concept implementation showing how to transform NationBuilder page ta
 ## Important Notes
 
 - This is an example implementation for the NationBuilder Raise theme
-- Requires Bootstrap 5 classes (included in Raise theme)
+- Utilizes default Bootstrap 4 classes (included in Raise theme)
 - May need modification for other themes or styling frameworks
 - Intended as a learning resource/starting point, not a drop-in solution
 
