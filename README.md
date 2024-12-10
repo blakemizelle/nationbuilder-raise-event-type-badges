@@ -125,17 +125,13 @@ This is a proof-of-concept implementation. Feel free to:
 - Propose alternative approaches
 - Report issues or limitations
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Built for NationBuilder CMS
-- Uses Bootstrap 5 utility classes
+- Uses Bootstrap 4 utility classes
 - Inspired by real-world admin needs
 - Based on the Raise theme structure
 
 ---
 
-*Built with ❤ for the NationBuilder community*
+*Built with  ❤  for the NationBuilder community*
